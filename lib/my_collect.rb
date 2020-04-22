@@ -1,4 +1,4 @@
 def my_collect(i)
   i = 0
-  collection = []
+  name_collection = []
   
